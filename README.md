@@ -25,15 +25,14 @@ Here are some ideas to aget you started:
 - 🌱 I’m currently learning **Data Structures**
 
 <h3>connect with me: </h3>
-<!-- 
-[<img align="left" alt="aditya_thakur80 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-[<img align="left" alt="aditya-thakur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- [<img align="left" alt="_aadi.thakur_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+
+<img align="left" alt="aditya-thakur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
+
 <br/><br/>
 
 <h3>Stack I work with</h3>
 <p align="left">
-<!-- <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/> -->
+
 <img src="https://img.shields.io/badge/java-11B48A.svg?&style=for-the-badge&logo=java&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/javascript-6400AA.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/android-0052CC.svg?&style=for-the-badge&logo=android&logoColor=white" height="25"/>
@@ -49,11 +48,7 @@ Here are some ideas to aget you started:
 </p> 
  <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=kunalbedi496&show_icons=true&hide=contribs" alt="kunalbedi496"/>
-<!-- <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kunalbedi496&layout=compact" alt="kunalbedi496" /> -->
 
  </p>
-
-<!-- [twitter]: https://twitter.com/aditya_thakur80
-[instagram]: https://www.instagram.com/_aadi.thakur_/ -->
 
 [linkedin]: https://www.linkedin.com/in/kunal-bedi/
