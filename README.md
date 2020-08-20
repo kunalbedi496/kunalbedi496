@@ -13,7 +13,7 @@ Here are some ideas to aget you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
+-->
 
 <h1 align="center">Hey 👋, I'm Kunal Bedi</h1>
 <h3 align="center">A passionate developer from INDIA 
@@ -26,7 +26,7 @@ Here are some ideas to aget you started:
 
 <h3>connect with me: </h3>
 
-<img align="left" alt="aditya-thakur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
+[<img align="left" alt="aditya-thakur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/><br/>
 
