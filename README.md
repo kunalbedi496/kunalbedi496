@@ -15,7 +15,7 @@ Here are some ideas to aget you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="" width="35"/>, I'm Kunal Bedi</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="" width="35"/> I'm Kunal Bedi</h1>
 <h3 align="center">A passionate developer from INDIA 
 <img src="https://image.flaticon.com/icons/svg/3014/3014003.svg" width="14"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalbedi496" alt="kunalbedi496" /></p>
