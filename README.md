@@ -15,7 +15,7 @@ Here are some ideas to aget you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey 👋, I'm Kunal Bedi</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="" width="35"/>, I'm Kunal Bedi</h1>
 <h3 align="center">A passionate developer from INDIA 
 <img src="https://image.flaticon.com/icons/svg/3014/3014003.svg" width="14"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalbedi496" alt="kunalbedi496" /></p>
@@ -26,7 +26,9 @@ Here are some ideas to aget you started:
 
 <h3>connect with me: </h3>
 
+
 [<img align="left" alt="kunal-bedi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 <br/><br/>
 
